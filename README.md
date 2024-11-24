@@ -20,3 +20,4 @@
 - 짝지어 제거하기 ([문제](https://school.programmers.co.kr/learn/courses/30/lessons/12973) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241121%20%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.py))
 - N개의 최소공배수 ([문제](https://school.programmers.co.kr/learn/courses/30/lessons/12953) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241122%20N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py))
 - 구명보트 ([문제](https://school.programmers.co.kr/learn/courses/30/lessons/42885) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241122%20%EA%B5%AC%EB%A9%8D%EB%B3%B4%ED%8A%B8.py))
+- 멀리뛰기 ([문제](https://school.programmers.co.kr/learn/courses/30/lessons/12914) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241123%20%EB%A9%80%EB%A6%AC%EB%9B%B0%EA%B8%B0.py))
