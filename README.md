@@ -22,3 +22,4 @@
 - 구명보트 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42885) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241122%20%EA%B5%AC%EB%A9%8D%EB%B3%B4%ED%8A%B8.py)
 - 멀리뛰기 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12914) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241123%20%EB%A9%80%EB%A6%AC%EB%9B%B0%EA%B8%B0.py)
 - 귤 고르기 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/138476) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241124%20%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)
+- 예상 대진표 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12985) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241127%20%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.py)
