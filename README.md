@@ -27,3 +27,7 @@
 - 할인 행사 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131127) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241129%20%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC.py)
 - 점프와 순간이동 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12980) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241202%20%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99.py)
 - 괄호 회전하기 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/76502) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241202%20%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.py)
+- n^2배열 자르기 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/87390) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241203%20n%5E2%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py)
+- 행렬의 곱셈 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12949) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241203%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88.py)
+- 의상 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42578) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241204%20%EC%9D%98%EC%83%81.py)
+- H-Index [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42747) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241204%20H-Index.py)
