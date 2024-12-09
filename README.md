@@ -31,3 +31,6 @@
 - 행렬의 곱셈 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12949) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241203%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88.py)
 - 의상 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42578) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241204%20%EC%9D%98%EC%83%81.py)
 - H-Index [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42747) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241204%20H-Index.py)
+- 전화번호 목록 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42577) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241205%20%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.py)
+- 기능개발 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42586) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241206%20%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)
+- 튜플 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/64065) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241209%20%ED%8A%9C%ED%94%8C.py)
