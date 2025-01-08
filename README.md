@@ -2,12 +2,23 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddururiiiiiii%2Fprogrammers-python&count_bg=%233D7CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 -----
 - 프로그래머스에서 푼 문제들(Python)을 기록합니다.
+- 하다보니 백준에서 푼 문제들도 기록하기로 했습니다.
 
 <br>
 
-### Level 2
+## Programmers
+
 
 ----
+
+### [정렬]
+- 가장 큰 수 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42746) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241211%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.py)
+- H-Index [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42747) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241204%20H-Index.py)
+- K-번째 수 [문제]() / [코드]()
+
+
+
+### [Level 2]
 - 최댓값과 최솟값 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12939) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241117%20%EC%B5%9C%EB%8C%80%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.py)
 - 올바른 괄호 [문제](https://school.programmers.co.kr/learn/courses/3/lessons/1290드) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241117%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.py)
 - 최솟값 만들기 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12941) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241118%20%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
@@ -30,13 +41,11 @@
 - n^2배열 자르기 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/87390) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241203%20n%5E2%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py)
 - 행렬의 곱셈 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12949) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241203%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88.py)
 - 의상 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42578) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241204%20%EC%9D%98%EC%83%81.py)
-- H-Index [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42747) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241204%20H-Index.py)
 - 전화번호 목록 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42577) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241205%20%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.py)
 - 기능개발 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42586) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241206%20%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)
 - 튜플 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/64065) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241209%20%ED%8A%9C%ED%94%8C.py)
 - 뒤에 있는 큰 수 찾기 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154539) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241210%20%EB%92%A4%EC%97%90%20%EC%9E%88%EB%8A%94%20%ED%81%B0%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)
 - 모음 사전 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/84512) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241211%20%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.py)
-- 가장 큰 수 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42746) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241211%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.py)
 - 주식가격 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42584) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241212%20%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py)
 - 큰 수 만들기 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42883) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241212%20%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
 - 연속된 부분 수열의 합 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/178870) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241213%20%EC%97%B0%EC%86%8D%EB%90%9C%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.py)
@@ -49,3 +58,20 @@
 - 롤케이크 자르기 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/132265) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241231%20%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py)
 - 시소 짝꿍 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/152996) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241231%20%EC%8B%9C%EC%86%8C%20%EC%A7%9D%EA%B6%81.py)
 - 타겟 넘버 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43165) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241231%20%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.py)
+
+----
+
+## Baekjoon
+### [[정렬]](https://www.acmicpc.net/step/9)
+1. 2750 수 정렬하기 [문제](https://www.acmicpc.net/problem/2750) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/baekjoon/01%20%EC%A0%95%EB%A0%AC/250108%20BOJ2750%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
+2. 2588 대표값2 [문제](https://www.acmicpc.net/problem/2587) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/baekjoon/01%20%EC%A0%95%EB%A0%AC/250108%20BOJ2587%20%EB%8C%80%ED%91%9C%EA%B0%922.py)
+3. 25305 커트라인 [문제](https://www.acmicpc.net/problem/25305) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/baekjoon/01%20%EC%A0%95%EB%A0%AC/250108%20BOJ25305%20%EC%BB%A4%ED%8A%B8%EB%9D%BC%EC%9D%B8.py)
+4. 2751 수 정렬하기2 [문제](https://www.acmicpc.net/problem/2751) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/baekjoon/01%20%EC%A0%95%EB%A0%AC/250108%20BOJ2751%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02.py)
+5. 10989 수 정렬하기3 [문제](https://www.acmicpc.net/problem/10989) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/baekjoon/01%20%EC%A0%95%EB%A0%AC/250108%20BOJ10989%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B03.py)
+6. 1427 소트인사이드 [문제](https://www.acmicpc.net/problem/1427) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/baekjoon/01%20%EC%A0%95%EB%A0%AC/250108%20BOJ1427%20%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8.py)
+7. 11650 좌표 정렬하기 [문제](https://www.acmicpc.net/problem/11650) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/baekjoon/01%20%EC%A0%95%EB%A0%AC/250108%20BOJ11650%20%EC%A2%8C%ED%91%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
+8. 11651 좌표 정렬하기2 [문제](https://www.acmicpc.net/problem/11651) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/baekjoon/01%20%EC%A0%95%EB%A0%AC/250108%20BOJ11651%20%EC%A2%8C%ED%91%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02.py)
+9. 1181 단어 정렬 [문제](https://www.acmicpc.net/problem/1181) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/baekjoon/01%20%EC%A0%95%EB%A0%AC/250108%20BOJ1181%20%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC.py)
+10. 10814 나이순 정렬 [문제](https://www.acmicpc.net/problem/10814) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/baekjoon/01%20%EC%A0%95%EB%A0%AC/250108%20BOJ10814%20%EB%82%98%EC%9D%B4%EC%88%9C%20%EC%A0%95%EB%A0%AC.py)
+11. 18870 좌표 압축 [문제](https://www.acmicpc.net/problem/18870) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/baekjoon/01%20%EC%A0%95%EB%A0%AC/250108%20BOJ18870%20%EC%A2%8C%ED%91%9C%20%EC%95%95%EC%B6%95.py)
+(+) 23246 Sport Climbing Combined [문제]() / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/baekjoon/01%20%EC%A0%95%EB%A0%AC/250108%20BOJ23246%20Sport%20Climbing%20Combined.py) 
