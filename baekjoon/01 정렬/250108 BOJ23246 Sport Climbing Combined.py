@@ -1,6 +1,6 @@
 # https://www.acmicpc.net/problem/23246
-n = (int(input()))
-infos = [list(map(int, input().split())) for _ in range(n)]
-infos.sort(key=lambda x:(x[1]*x[2]*x[3], x[1]+x[2]+x[3], x[0]))
-for a, b, c, d in infos[:3]:
+N = int(input())
+arr = [list(map(int, input().split())) for _ in range(N)]
+arr.sort(key=lambda x:(x[1]*x[2]*x[3], x[1]+x[2]+x[3], x[0]))
+for a, b, c, b in arr[:3]:
     print(a, end=" ")
