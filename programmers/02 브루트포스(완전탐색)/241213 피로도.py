@@ -1,4 +1,6 @@
+# https://school.programmers.co.kr/learn/courses/30/lessons/87946
 import itertools
+
 def solution(k, dungeons):
     answer = []
     dungeons_arr = list(itertools.permutations(dungeons, len(dungeons)))
