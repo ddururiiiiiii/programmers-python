@@ -23,6 +23,14 @@
 - [LV2] 피로도 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/87946) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241213%20%ED%94%BC%EB%A1%9C%EB%8F%84.py)
 - [LV2] 카펫 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42842) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/02%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/250115%20LV2%20%EC%B9%B4%ED%8E%AB.py)
 
+### [해시]
+- [LV1] 폰켓몬 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/1845) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/03%20%ED%95%B4%EC%8B%9C/250130%20%ED%8F%B0%EC%BC%93%EB%AA%AC.py)
+- [LV1] 완주하지 못한 선수 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42576) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/03%20%ED%95%B4%EC%8B%9C/250130%20%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.py)
+- [LV2] 전화번호 목록 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42577) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/03%20%ED%95%B4%EC%8B%9C/250130%20%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.py)
+- [LV2] 의상 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42578) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/03%20%ED%95%B4%EC%8B%9C/250130%20%EC%9D%98%EC%83%81.py)
+- [LV3] 베스트 앨범 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42579) / [코드]()
+
+
 ### [Level 2]
 - 최댓값과 최솟값 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12939) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241117%20%EC%B5%9C%EB%8C%80%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.py)
 - 올바른 괄호 [문제](https://school.programmers.co.kr/learn/courses/3/lessons/1290드) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241117%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.py)
