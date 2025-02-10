@@ -30,7 +30,9 @@
 - [LV2] 의상 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42578) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/03%20%ED%95%B4%EC%8B%9C/250130%20%EC%9D%98%EC%83%81.py)
 - [LV3] 베스트 앨범 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42579) / [코드]()
 
-
+### 깊이/너비 우선 탐색 (DFS/BFS)
+- [LV2] 타겟 넘버
+- 
 ### [Level 2]
 - 최댓값과 최솟값 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12939) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241117%20%EC%B5%9C%EB%8C%80%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.py)
 - 올바른 괄호 [문제](https://school.programmers.co.kr/learn/courses/3/lessons/1290드) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241117%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.py)
@@ -68,7 +70,7 @@
 - 뉴스 클러스터링 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/17677) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241230%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.py)
 - 롤케이크 자르기 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/132265) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241231%20%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py)
 - 시소 짝꿍 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/152996) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241231%20%EC%8B%9C%EC%86%8C%20%EC%A7%9D%EA%B6%81.py)
-- 타겟 넘버 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43165) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241231%20%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.py)
+
 
 ----
 
