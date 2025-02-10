@@ -1,17 +1,17 @@
+# https://school.programmers.co.kr/learn/courses/30/lessons/43165
 def solution(numbers, target):
     answer = 0
     leaves = [0]
+
     for num in numbers:
         tmp = []
-        # print('num = ', num)
         for parent in leaves:
-            # print('parent = ', parent, 'num = ', num)
             tmp.append(parent + num)
             tmp.append(parent - num)
         leaves = tmp
 
-    for leaf in leaves:
-        if leaf == target:
+    for leave in leaves:
+        if leave == target:
             answer += 1
 
     return answer
