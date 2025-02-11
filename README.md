@@ -31,8 +31,10 @@
 - [LV3] 베스트 앨범 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42579) / [코드]()
 
 ### 깊이/너비 우선 탐색 (DFS/BFS)
-- [LV2] 타겟 넘버
-- 
+- [LV2] 타겟 넘버 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43165) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/04%20%EA%B9%8A%EC%9D%B4%2C%EB%84%88%EB%B9%84%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89(DFS%2CBFS)/250211%20LV2%20%ED%83%80%EC%BC%93%20%EB%84%98%EB%B2%84.py)
+- [LV2] 게임 맵 최단거리 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/1844) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/04%20%EA%B9%8A%EC%9D%B4%2C%EB%84%88%EB%B9%84%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89(DFS%2CBFS)/250212%20LV2%20%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.py)
+
+
 ### [Level 2]
 - 최댓값과 최솟값 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12939) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241117%20%EC%B5%9C%EB%8C%80%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.py)
 - 올바른 괄호 [문제](https://school.programmers.co.kr/learn/courses/3/lessons/1290드) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241117%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.py)
