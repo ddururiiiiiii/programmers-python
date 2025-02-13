@@ -12,15 +12,15 @@
 
 ### [정렬]
 - [LV1] K-번째 수 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42748) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/01%20%EC%A0%95%EB%A0%AC/250108%20LV1%20K%EB%B2%88%EC%A7%B8%EC%88%98.py)
-- [LV2] 가장 큰 수 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42746) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241211%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.py)
-- [LV2] H-Index [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42747) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241204%20H-Index.py)
+- [LV2] 가장 큰 수 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42746) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/01%20%EC%A0%95%EB%A0%AC/241204%20LV2%20H-Index.py)
+- [LV2] H-Index [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42747) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/01%20%EC%A0%95%EB%A0%AC/241211%20LV2%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.py)
 
 ### [완전탐색(브루트포스)]
 - [LV1] 모의고사 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42840) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/02%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/250114%20LV1%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py)
 - [LV1] 최소직사각형 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/86491) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/02%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/250114%20LV1%20%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.py)
 - [LV2] 소수 찾기 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42839) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/02%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/250114%20LV2%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)
-- [LV2] 모음 사전 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/84512) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241211%20%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.py)
-- [LV2] 피로도 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/87946) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/level2/241213%20%ED%94%BC%EB%A1%9C%EB%8F%84.py)
+- [LV2] 모음 사전 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/84512) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/02%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/241211%20LV2%20%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.py)
+- [LV2] 피로도 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/87946) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/02%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/241213%20LV2%20%ED%94%BC%EB%A1%9C%EB%8F%84.py)
 - [LV2] 카펫 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42842) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/02%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/250115%20LV2%20%EC%B9%B4%ED%8E%AB.py)
 
 ### [해시]
@@ -28,11 +28,17 @@
 - [LV1] 완주하지 못한 선수 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42576) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/03%20%ED%95%B4%EC%8B%9C/250130%20%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.py)
 - [LV2] 전화번호 목록 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42577) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/03%20%ED%95%B4%EC%8B%9C/250130%20%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.py)
 - [LV2] 의상 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42578) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/03%20%ED%95%B4%EC%8B%9C/250130%20%EC%9D%98%EC%83%81.py)
-- [LV3] 베스트 앨범 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42579) / [코드]()
 
-### 깊이/너비 우선 탐색 (DFS/BFS)
+### [깊이/너비 우선 탐색 (DFS/BFS)]
 - [LV2] 타겟 넘버 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43165) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/04%20%EA%B9%8A%EC%9D%B4%2C%EB%84%88%EB%B9%84%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89(DFS%2CBFS)/250211%20LV2%20%ED%83%80%EC%BC%93%20%EB%84%98%EB%B2%84.py)
 - [LV2] 게임 맵 최단거리 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/1844) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/04%20%EA%B9%8A%EC%9D%B4%2C%EB%84%88%EB%B9%84%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89(DFS%2CBFS)/250212%20LV2%20%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.py)
+
+### [스택/큐]
+- [LV2] 올바른 괄호 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12909) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/05%20%EC%8A%A4%ED%83%9D%20%ED%81%90/241117%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.py)
+- [LV2] 기능개발 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42586) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/05%20%EC%8A%A4%ED%83%9D%20%ED%81%90/241206%20%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)
+- [LV2] 주식가격 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42584) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/05%20%EC%8A%A4%ED%83%9D%20%ED%81%90/241212%20%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py)
+- [LV2] 같은 숫자는 싫어 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12906) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/05%20%EC%8A%A4%ED%83%9D%20%ED%81%90/250212%20%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.py)
+- [LV2] 프로세스 [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42587) / [코드](https://github.com/ddururiiiiiii/programmers-python/blob/main/programmers/05%20%EC%8A%A4%ED%83%9D%20%ED%81%90/250213%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.py)
 
 
 ### [Level 2]
